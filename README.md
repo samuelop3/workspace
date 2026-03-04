@@ -1,1 +1,1 @@
-Soy bachiller técnico en software grado 11, con conocimientos básicos en programación, bases de datos. Tengo habilidades para desarrollar aplicaciones sencillas, resolver problemas y trabajar en equipo, con buena disposición para aprender y seguir creciendo en el área tecnológica
+*Soy bachiller técnico en software grado 11, con conocimientos básicos en programación, bases de datos. Tengo habilidades para desarrollar aplicaciones sencillas, resolver problemas y trabajar en equipo, con buena disposición para aprender y seguir creciendo en el área tecnológica
