@@ -8,6 +8,7 @@ let x = 10;
 }
 console.log("x fuera:");
 console.log(x);
+
 //la variable y no es accesible fuera del bloque, por lo que esta línea generará un error
 console.log("y fuera:");
 console.log(y);
