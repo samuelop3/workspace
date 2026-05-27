@@ -1,5 +1,5 @@
-const SUPABASE_URL =
-const SUPABASE_ANON_KEY = "";
+const SUPABASE_URL = ""
+const SUPABASE_ANON_KEY = "TU_ANON_PUBLIC_KEY"
 
 async function crearEstudiante() {
   const estudiante = {
@@ -15,7 +15,7 @@ async function crearEstudiante() {
     headers: {
       apikey: SUPABASE_ANON_KEY,
       Authorization: `Bearer ${SUPABASE_ANON_KEY}`,
-      "Content-Type": "",
+      "Content-Type": "application/json",
       Prefer: "return=representation",
     },
     body: JSON.stringify(estudiante),
