@@ -1,8 +1,8 @@
 const url = ""
 
 const headers = {
-  apikey: "TU_API_KEY",
-  "Content-Type": "application/json",
+  apikey: "",
+  "Content-Type": ,
 };
 
 async function eliminarEstudiante() {
