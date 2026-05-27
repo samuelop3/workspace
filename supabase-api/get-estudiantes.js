@@ -1,7 +1,7 @@
 const url =
 
 const headers = {
-  apikey: "REDACTED",
+  apikey: "",
   "Content-Type": "application/json",
 };
 
